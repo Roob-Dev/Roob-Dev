@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web development, and cybersecurity
 - 🌱 I’m currently learning ... React js
 - 💞️ I’m looking to collaborate on ... future projects of course!
-- 📫 How to reach me ... 
+- 📫 How to reach me ... Email is the best way at rubi.g.llam@gmail.com
 
 <!---
 Roob-Dev/Roob-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
