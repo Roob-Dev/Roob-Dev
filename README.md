@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rubi</h1>
-<h3 align="center">A passionate frontend developer based out of Austin, TX</h3>
+<h3 align="center">I'm a frontend developer based out of Austin, TX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roob-dev&label=Profile%20views&color=0e75b6&style=flat" alt="roob-dev" /> </p>
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **CSS and HTML**
+- 💬 Ask me about **The webdev trifecta! CSS, HTML and JavaScript**
 
 - 📫 How to reach me **rubi.g.llam@gmail.com**
 
