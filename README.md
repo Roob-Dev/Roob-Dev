@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **The webdev trifecta! CSS, HTML and JavaScript**
+- 💬 Ask me about **the webdev trifecta! CSS, HTML and JavaScript**
 
 - 📫 How to reach me **rubi.g.llam@gmail.com**
 
